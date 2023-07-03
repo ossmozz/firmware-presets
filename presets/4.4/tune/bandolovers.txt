@@ -8,29 +8,49 @@
 #$ PARSER: MARKED
 
 #$ DESCRIPTION:La team des BandoLovers 🏭❤️ vous présente un preset élaboré par Colin Chr
-#$ DESCRIPTION: <br />
-#$ DESCRIPTION:⚠️ **Le preset fonctionne uniquement en RPM filter , BLHeli32 et Dshot 300/600 !**
-#$ DESCRIPTION: <br />
-#$ DESCRIPTION: Fréquence de la Boucle PID :
+#$ DESCRIPTION:
+#$ DESCRIPTION: <br>
+#$ DESCRIPTION:
+#$ DESCRIPTION:⚠️ **Le preset fonctionne uniquement en RPM filter , BLHeli32 et Dshot 300/600!**
+#$ DESCRIPTION:
+#$ DESCRIPTION: <br>
+#$ DESCRIPTION:
+#$ DESCRIPTION:Fréquence de la Boucle PID :
 #$ DESCRIPTION: - Carte de vol F7 : minimum 8kHz / 8kHz
 #$ DESCRIPTION: - Carte de vol F4 : 8kHz / 4kHz
-#$ DESCRIPTION: <br />
-#$ DESCRIPTION: <br />
+#$ DESCRIPTION:
+#$ DESCRIPTION: <br>
+#$ DESCRIPTION:
+#$ DESCRIPTION: <br>
+#$ DESCRIPTION:
 #$ DESCRIPTION:✅ Vérifier votre charge CPU !! Plus de 44% il y a un problème...
-#$ DESCRIPTION: <br />
+#$ DESCRIPTION:
+#$ DESCRIPTION: <br>
+#$ DESCRIPTION:
 #$ DESCRIPTION:⚠️ Par défaut le preset RC link est configuré pour du 150hz (crossfire, elrs etc ) 
-#$ DESCRIPTION: <br />
+#$ DESCRIPTION:
+#$ DESCRIPTION: <br>
+#$ DESCRIPTION:
 #$ DESCRIPTION:Si votre lien radio est différent il vous suffit simplement d'appliquer le preset RC link qui vous correspond
-#$ DESCRIPTION: <br />
-#$ DESCRIPTION: <br />
+#$ DESCRIPTION:
+#$ DESCRIPTION: <br>
+#$ DESCRIPTION:
+#$ DESCRIPTION: <br>
+#$ DESCRIPTION:
 #$ DESCRIPTION:⚠️ Les ESC BLHeli 32.9 en 128khz peuvent bénéficier de réglages différents sur le PWM: 
 #$ DESCRIPTION: - PWM min 24khz 
 #$ DESCRIPTION: - PWM max byRPM
-#$ DESCRIPTION: <br />
-#$ DESCRIPTION: ⚠️ **Faire des vol de test d'environ 30 secondes pour vérifier le comportement et la température moteurs** 😉✈️🔥
-#$ DESCRIPTION: <br />
+#$ DESCRIPTION:
+#$ DESCRIPTION: <br>
+#$ DESCRIPTION:
+#$ DESCRIPTION:⚠️ **Faire des vol de test d'environ 30 secondes pour vérifier le comportement et la température moteurs** 😉✈️🔥
+#$ DESCRIPTION:
+#$ DESCRIPTION: <br>
+#$ DESCRIPTION:
 #$ DESCRIPTION: **Je vous demande d'être prudent avec vous, les autres et votre matériel** 😊🙏
-#$ DESCRIPTION: <br />
+#$ DESCRIPTION:
+#$ DESCRIPTION: <br>
+#$ DESCRIPTION:
 #$ DESCRIPTION: Bon vol les pilotes ✈️😎👊
 
 #$ INCLUDE_WARNING: misc/warnings/en/dshot.txt
