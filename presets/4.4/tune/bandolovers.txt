@@ -4,11 +4,9 @@
 #$ STATUS: OFFICIAL
 #$ KEYWORDS: bando, lovers, bandolovers, 6S, freestyle, 5 inch, 5", colin
 #$ AUTHOR: Colin Chr
-
+#$ PARSER: MARKED
 
 #$ DESCRIPTION:La team des BandoLovers 🏭❤️ vous présente un preset élaboré par Colin Chr
-#$ DESCRIPTION:
-#$ DESCRIPTION: <br />
 #$ DESCRIPTION:
 #$ DESCRIPTION:⚠️ **Le preset fonctionne uniquement en RPM filter , BLHeli32 et Dshot 300/600 !**
 #$ DESCRIPTION:
