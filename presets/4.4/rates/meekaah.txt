@@ -9,7 +9,7 @@
 
 #$ PARSER: MARKED
 
-#$ DESCRIPTION: <a href="https://www.youtube.com/MeeKaaH" target="_blank"><img src="https://github.com/ossmozz/firmware-presets/blob/master/presets/4.4/rates/meekaah.png?raw=true" width="100px" style="float:left; margin-right: 25px; display: block;"/></a><br /><br />
+#$ DESCRIPTION: <a href="https://www.youtube.com/MeeKaaH" target="_blank"><img src="https://github.com/ossmozz/firmware-presets/blob/master/presets/4.4/rates/meekaah.png?raw=true" width="250px" style="display: block;"/></a><br /><br />
 #$ DESCRIPTION: <a href="https://www.youtube.com/MeeKaaH" target="_blank">https://www.youtube.com/MeeKaaH</a><br /><br />
 #$ DESCRIPTION: <a href="https://www.instagram.com/meekaah_fpv/" target="_blank">https://www.instagram.com/meekaah_fpv/</a><br /><br />
 #$ DESCRIPTION: 

@@ -162,7 +162,6 @@
       "filters",
       "freerace",
       "freestyle",
-      "lovers",
       "meekaah",
       "pid",
       "race",
@@ -211,7 +210,7 @@
     },
     {
       "fullPath": "presets/4.4/rates/meekaah.txt",
-      "hash": "542e6bfb45cbbb9c89ced6d5f27cff2fa06dbfe287a5092960890e6a9a30f0c2",
+      "hash": "6685b03736aef92ada97124d0357b18d9b2b392e40d7beeb3dbcf7144872cc92",
       "title": "MeeKaaH",
       "firmware_version": [
         "4.2",
@@ -232,7 +231,7 @@
     },
     {
       "fullPath": "presets/4.4/tune/bandolovers.txt",
-      "hash": "a062cc94a99cbe3630d200245d71310fd07fa1046d8a7c567b0a7418be27294f",
+      "hash": "64f53e62fcb6bba0f70991f3f47bf3bec05ec9ff7a0e75ada4a51ed649298552",
       "title": "BandoLovers 6S 5\"",
       "firmware_version": [
         "4.4"
@@ -241,7 +240,6 @@
       "status": "OFFICIAL",
       "keywords": [
         "bando",
-        "lovers",
         "bandolovers",
         "6S",
         "freestyle",
