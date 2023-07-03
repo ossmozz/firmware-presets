@@ -3,14 +3,15 @@
 #$ FIRMWARE_VERSION: 4.3
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: RATES
-#$ STATUS: COMMUNITY
+#$ STATUS: OFFICIAL
 #$ KEYWORDS: meekaah, bando, freerace, freestyle, race
 #$ AUTHOR: MeeKaaH
 
-#$ DESCRIPTION: https://www.youtube.com/MeeKaaH
-#$ DESCRIPTION: https://www.instagram.com/meekaah_fpv/
+#$ DESCRIPTION: <a href="https://www.youtube.com/MeeKaaH" target="_blank"><img src="https://github.com/ossmozz/firmware-presets/blob/master/presets/4.4/rates/meekaah.png?raw=true" width="100px" style="float:left; margin-right: 25px; display: block;"/></a><br /><br />
+#$ DESCRIPTION: <a href="https://www.youtube.com/MeeKaaH" target="_blank">https://www.youtube.com/MeeKaaH</a><br /><br />
+#$ DESCRIPTION: <a href="https://www.instagram.com/meekaah_fpv/" target="_blank">https://www.instagram.com/meekaah_fpv/</a><br /><br />
+#$ DESCRIPTION: 
 #$ WARNING: Before applying this preset, REMEMBER to select your rateprofile to overwrite 
-
 
 #$ INCLUDE: presets/4.3/rates/defaults.txt
 

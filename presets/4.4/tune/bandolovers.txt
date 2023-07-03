@@ -1,14 +1,14 @@
-#$ TITLE: BandoLovers 6s 5" tune
+#$ TITLE: BandoLovers 6S 5"
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: TUNE
-#$ STATUS: EXPERIMENTAL
+#$ STATUS: OFFICIAL
 #$ KEYWORDS: bando, lovers, bandolovers, 6S, freestyle, 5 inch, 5", colin
 #$ AUTHOR: Colin Chr
 
 
 #$ DESCRIPTION:La team des BandoLovers 🏭❤️ vous présente un preset élaboré par Colin Chr
 #$ DESCRIPTION:
-#$ DESCRIPTION: <br>
+#$ DESCRIPTION: <br />
 #$ DESCRIPTION:
 #$ DESCRIPTION:⚠️ **Le preset fonctionne uniquement en RPM filter , BLHeli32 et Dshot 300/600 !**
 #$ DESCRIPTION:
