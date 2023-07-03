@@ -1,0 +1,113 @@
+#$ TITLE: BandoLovers 6s 5" tune
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: TUNE
+#$ STATUS: EXPERIMENTAL
+#$ KEYWORDS: bando, lovers, bandolovers, 6S, freestyle, 5 inch, 5", colin
+#$ AUTHOR: Colin Chr
+
+
+#$ DESCRIPTION:La team des BandoLovers 🏭❤️ vous présente un preset élaboré par Colin Chr
+#$ DESCRIPTION:
+#$ DESCRIPTION: <br>
+#$ DESCRIPTION:
+#$ DESCRIPTION:⚠️ **Le preset fonctionne uniquement en RPM filter , BLHeli32 et Dshot 300/600 !**
+#$ DESCRIPTION:
+#$ DESCRIPTION: Fréquence de la Boucle PID :
+#$ DESCRIPTION: - Carte de vol F7 : minimum 8kHz / 8kHz
+#$ DESCRIPTION: - Carte de vol F4 : 8kHz / 4kHz
+#$ DESCRIPTION:
+#$ DESCRIPTION:Vérifier votre charge CPU !! Plus de 44% il y a un problème...   
+#$ DESCRIPTION:⚠️Par défaut le preset RC link est configuré pour du 150hz (crossfire, elrs etc ) 
+#$ DESCRIPTION:
+#$ DESCRIPTION:Si votre lien radio est différent il vous suffit simplement d'appliquer le preset RC link qui vous correspond
+#$ DESCRIPTION:
+#$ DESCRIPTION:⚠️ Les ESC BLHeli 32.9 en 128khz peuvent bénéficier de réglages différents sur le PWM: 
+#$ DESCRIPTION: - PWM min 24khz 
+#$ DESCRIPTION: - PWM max byRPM
+#$ DESCRIPTION:
+#$ DESCRIPTION: ⚠️**Faire des vol de test d'environ 30 secondes pour vérifier le comportement et la température moteurs **😉✈️🔥
+#$ DESCRIPTION: **Je vous demande d'être prudent avec vous, les autres et votre matériel** 😊🙏
+#$ DESCRIPTION: Bon vol les pilotes ✈️😎👊
+
+#$ INCLUDE_WARNING: misc/warnings/en/dshot.txt
+#$ INCLUDE_WARNING: misc/warnings/en/rpm_filters.txt
+#$ INCLUDE: presets/4.4/tune/defaults.txt
+#$ INCLUDE: presets/4.3/filters/defaults.txt
+
+set motor_pwm_protocol = DSHOT600
+
+set dterm_lpf1_dyn_min_hz = 160
+set dterm_lpf1_dyn_max_hz = 700
+set dterm_lpf1_dyn_expo = 1
+set dterm_lpf1_type = PT1
+
+set gyro_lpf2_static_hz = 0
+set gyro_notch1_hz = 215
+set gyro_notch1_cutoff = 170
+
+set dterm_lpf2_type = PT1
+set dterm_lpf2_static_hz = 110
+set dterm_notch_hz = 0
+set dterm_notch_cutoff = 0
+set vbat_sag_compensation = 0
+set pid_at_min_throttle = ON
+set anti_gravity_gain = 100
+set anti_gravity_cutoff_hz = 5
+set anti_gravity_p_gain = 100
+set acc_limit_yaw = 0
+set acc_limit = 0
+set rpm_filter_harmonics = 3
+set rpm_filter_q = 500
+set rpm_filter_min_hz = 110
+set rpm_filter_fade_range_hz = 50
+set rpm_filter_lpf_hz = 115
+
+
+set dyn_notch_count = 0
+set dyn_notch_q = 500
+set dyn_notch_min_hz = 90
+set dyn_notch_max_hz = 500
+set gyro_lpf1_dyn_min_hz = 210
+set gyro_lpf1_dyn_max_hz = 500
+set gyro_lpf1_dyn_expo = 5
+set gyro_lpf2_type = PT1
+set gyro_lpf2_static_hz = 0
+set iterm_relax = RPY
+set iterm_relax_type = SETPOINT
+set iterm_relax_cutoff = 10
+set iterm_windup = 85
+set iterm_limit = 450
+set pidsum_limit = 1000
+set pidsum_limit_yaw = 1000
+set yaw_lowpass_hz = 0
+set p_pitch = 62
+set i_pitch = 90
+set d_pitch = 42
+set f_pitch = 100
+set p_roll = 60
+set i_roll = 85
+set d_roll = 40
+set f_roll = 100
+set p_yaw = 85
+set i_yaw = 100
+set d_yaw = 0
+set f_yaw = 100
+set d_min_roll = 36
+set d_min_pitch = 38
+set d_min_yaw = 0
+set d_max_gain = 50
+set d_max_advance = 25
+set thrust_linear = 30
+set feedforward_smooth_factor = 30
+set feedforward_boost = 15
+set feedforward_jitter_factor = 9
+set feedforward_max_rate_limit = 75
+set throttle_boost = 5
+set throttle_boost_cutoff = 15
+
+set dyn_idle_min_rpm = 30
+set simplified_pids_mode = OFF
+set simplified_dterm_filter = OFF
+set tpa_mode = PD
+set tpa_rate = 70
+set tpa_breakpoint = 1650

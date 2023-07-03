@@ -1,0 +1,26 @@
+#$ TITLE: MeeKaaH
+#$ FIRMWARE_VERSION: 4.2
+#$ FIRMWARE_VERSION: 4.3
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: RATES
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: meekaah, bando, freerace, freestyle, race
+#$ AUTHOR: MeeKaaH
+
+#$ DESCRIPTION: https://www.youtube.com/MeeKaaH
+#$ DESCRIPTION: https://www.instagram.com/meekaah_fpv/
+#$ WARNING: Before applying this preset, REMEMBER to select your rateprofile to overwrite 
+
+
+#$ INCLUDE: presets/4.3/rates/defaults.txt
+
+set rates_type = RACEFLIGHT
+set roll_rc_rate = 31
+set pitch_rc_rate = 31
+set yaw_rc_rate = 31
+set roll_expo = 30
+set pitch_expo = 30
+set yaw_expo = 30
+set roll_srate = 42
+set pitch_srate = 48
+set yaw_srate = 43
