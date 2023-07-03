@@ -145,8 +145,7 @@
     "author": [
       "Betaflight",
       "Colin Chr",
-      "MeeKaaH",
-      "QuadMcFly (Ryan Harrell)"
+      "MeeKaaH"
     ],
     "keywords": [
       "5 inch",
@@ -163,15 +162,12 @@
       "filters",
       "freerace",
       "freestyle",
-      "juicy",
       "lovers",
       "meekaah",
       "pid",
       "race",
       "rates",
       "reset",
-      "sbang",
-      "snappy",
       "tune"
     ]
   },
@@ -215,7 +211,7 @@
     },
     {
       "fullPath": "presets/4.4/rates/meekaah.txt",
-      "hash": "3c34e8e207d5f2b482a309391959052627fc989a66e3ca759eb2710377a76e50",
+      "hash": "542e6bfb45cbbb9c89ced6d5f27cff2fa06dbfe287a5092960890e6a9a30f0c2",
       "title": "MeeKaaH",
       "firmware_version": [
         "4.2",
@@ -223,7 +219,7 @@
         "4.4"
       ],
       "category": "RATES",
-      "status": "COMMUNITY",
+      "status": "OFFICIAL",
       "keywords": [
         "meekaah",
         "bando",
@@ -235,34 +231,14 @@
       "priority": 10000
     },
     {
-      "fullPath": "presets/4.4/rates/QuadMcFly_Freestyle.txt",
-      "hash": "ba10d6dc3b62a3543b5b48029a2bbf8f8f4818cc6b2569d44511d2f570fd4851",
-      "title": "QuadMcFly Rates - Snappy Freestyle",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "RATES",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "rates",
-        "freestyle",
-        "snappy",
-        "juicy",
-        "sbang"
-      ],
-      "author": "QuadMcFly (Ryan Harrell)",
-      "priority": 10000
-    },
-    {
       "fullPath": "presets/4.4/tune/bandolovers.txt",
-      "hash": "96b91c1c3d1f23e5bdf06d6eb4874d1953952ae613fc746455af3be96ccce005",
-      "title": "BandoLovers 6s 5\" tune",
+      "hash": "a062cc94a99cbe3630d200245d71310fd07fa1046d8a7c567b0a7418be27294f",
+      "title": "BandoLovers 6S 5\"",
       "firmware_version": [
         "4.4"
       ],
       "category": "TUNE",
-      "status": "EXPERIMENTAL",
+      "status": "OFFICIAL",
       "keywords": [
         "bando",
         "lovers",
