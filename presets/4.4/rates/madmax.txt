@@ -4,7 +4,7 @@
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: RATES
 #$ STATUS: OFFICIAL
-#$ KEYWORDS: madmax , bando, freerace, freestyle, race
+#$ KEYWORDS: madmax, bando, freerace, freestyle, race
 #$ AUTHOR: MADMAX
 
 #$ PARSER: MARKED
