@@ -145,6 +145,7 @@
     "author": [
       "Betaflight",
       "Colin Chr",
+      "MadMax",
       "MeeKaaH"
     ],
     "keywords": [
@@ -162,6 +163,7 @@
       "filters",
       "freerace",
       "freestyle",
+      "madmax",
       "meekaah",
       "pid",
       "race",
@@ -209,6 +211,27 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.4/rates/maxmad.txt",
+      "hash": "30254230562a5d96a2497b7c977041e5bfd6967e4cd7f8b566b7ea634e16e8be",
+      "title": "MadMax",
+      "firmware_version": [
+        "4.2",
+        "4.3",
+        "4.4"
+      ],
+      "category": "RATES",
+      "status": "OFFICIAL",
+      "keywords": [
+        "madmax",
+        "bando",
+        "freerace",
+        "freestyle",
+        "race"
+      ],
+      "author": "MadMax",
+      "priority": 10000
+    },
+    {
       "fullPath": "presets/4.4/rates/meekaah.txt",
       "hash": "6685b03736aef92ada97124d0357b18d9b2b392e40d7beeb3dbcf7144872cc92",
       "title": "MeeKaaH",
@@ -231,7 +254,7 @@
     },
     {
       "fullPath": "presets/4.4/tune/bandolovers.txt",
-      "hash": "c98496753eabc6688878deb0e57a0bf61290b494697cffa778982318a4a6640a",
+      "hash": "f43c0c0c9ac62a7505867aa43160743f1bcb30553787782dea3090ffe64f66bb",
       "title": "BandoLovers 6S 5\"",
       "firmware_version": [
         "4.4"
