@@ -23,7 +23,7 @@
 #$ DESCRIPTION:
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION:
-#$ DESCRIPTION:✅ Vérifier votre charge CPU !! Plus de 44% il y a un problème...
+#$ DESCRIPTION:✅ Vérifier votre charge CPU !! Plus de 45% il y a un problème...
 #$ DESCRIPTION:
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION:
