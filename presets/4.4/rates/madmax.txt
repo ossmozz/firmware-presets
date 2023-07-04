@@ -7,7 +7,6 @@
 #$ KEYWORDS: madmax, bando, freerace, freestyle, race
 #$ AUTHOR: MADMAX
 
-#$ PARSER: MARKED
 
 #$ DESCRIPTION: <a href="https://www.facebook.com/Ossmozz34" target="_blank"><img src="https://github.com/ossmozz/firmware-presets/blob/master/presets/4.4/rates/madmax.png?raw=true" width="250px" style="display: block;"/></a><br /><br />
 #$ DESCRIPTION: <a href="https://www.facebook.com/Ossmozz34" target="_blank">https://www.facebook.com/Ossmozz34</a><br /><br />
@@ -24,4 +23,4 @@ set pitch_expo = 30
 set yaw_expo = 30
 set roll_srate = 115
 set pitch_srate = 115
-set yaw_srate = 115 
+set yaw_srate = 115
