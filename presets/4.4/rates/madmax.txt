@@ -12,8 +12,7 @@
 #$ DESCRIPTION: <a href="https://www.facebook.com/Ossmozz34" target="_blank"><img src="https://github.com/ossmozz/firmware-presets/blob/master/presets/4.4/rates/madmax.png?raw=true" width="250px" style="display: block;"/></a><br /><br />
 #$ DESCRIPTION: <a href="https://www.facebook.com/Ossmozz34" target="_blank">https://www.facebook.com/Ossmozz34</a><br /><br />
 #$ DESCRIPTION: <a href="https://www.instagram.com/ossmozz_fpv/" target="_blank">https://www.instagram.com/ossmozz_fpv/</a><br /><br />
-#$ DESCRIPTION: 
-#$ WARNING: Before applying this preset, REMEMBER to select your rateprofile to overwrite 
+#$ WARNING: Before applying this preset, REMEMBER to select your rateprofile to overwrite
 
 
 set rates_type = RACEFLIGHT
