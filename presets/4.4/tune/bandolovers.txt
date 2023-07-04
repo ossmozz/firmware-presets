@@ -59,6 +59,7 @@
 #$ INCLUDE: presets/4.3/filters/defaults.txt
 
 set motor_pwm_protocol = DSHOT600
+set dshot_bidir = ON
 
 set dterm_lpf1_dyn_min_hz = 160
 set dterm_lpf1_dyn_max_hz = 700
